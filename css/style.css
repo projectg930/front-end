@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+	body {
+        font-family: "FangSong";
+        padding-top: 50px;
+        padding-bottom: 0px;
+        background-color: rgb(221, 221, 255);
+        color: #fff;   
+      }
+
+	  
+	  .unit{
+              
+              background-color:#fff;
+			  padding:5px 10px;
+              
+               height:auto;
+               color:black;
+               -webkit-box-shadow: 0 0px 5px rgba(0,0,0,.5);
+               -moz-   box-shadow: 0 0px 5px rgba(0,0,0,.5);
+                       box-shadow: 0 0px 5px rgba(0,0,0,.5);
+                -webkit-border-radius: 3px;
+                -moz-   border-radius: 3px;
+                        border-radius: 3px;
+        }
+		
+		.font-16{
+			
+			font-size:16px;
+			}
+			
+		.foot{
+        
+               color:black;
+               -webkit-box-shadow: 0 0px 5px rgba(0,0,0,.5);
+               -moz-   box-shadow: 0 0px 5px rgba(0,0,0,.5);
+                       box-shadow: 0 0px 5px rgba(0,0,0,.5);
+                -webkit-border-radius: 3px;
+                -moz-   border-radius: 3px;
+                        border-radius: 3px;
+        }
